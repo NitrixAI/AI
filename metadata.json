@@ -1,0 +1,9 @@
+{
+  "name": "L'Assistant Intelligent",
+  "description": "Un assistant conversationnel avancé capable de comprendre le texte et les images, d'aider aux devoirs, de programmer et d'analyser des documents visuels.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
